@@ -9,7 +9,7 @@
   "author": "Zabojca",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.11.1",
+    "browser-sync": "^2.29.3",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
@@ -17,7 +17,7 @@
     "gulp-clean-css": "^2.0.12",
     "gulp-concat": "^2.6.0",
     "gulp-file-include": "^0.14.0",
-    "gulp-notify": "^2.2.0",
+    "gulp-notify": "^5.0.0",
     "gulp-remove-html": "^1.1.2",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
